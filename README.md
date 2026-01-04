@@ -41,7 +41,9 @@ The `--build` flag ensures Docker recreates the image with the latest JAR file.
 ## Verification
 Once the logs show `Started Task1Application`, verify the setup:
 1. API Check: Open your browser to `http://localhost:8080/hello` (Expected Output: Docker is working! 🐳)
-//TODO : Put here sreenshot
+
+![Project Output Screenshot](https://github.com/KareemEmadElfrargi/docker-spring-boot-starter/blob/main/Screenshot%20Output.png)
+
 3. Database: The app will automatically connect to the PostgreSQL container using the credentials defined in `docker-compose.yml`
 
 ## Project Structure
