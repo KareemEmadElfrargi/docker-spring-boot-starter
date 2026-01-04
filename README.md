@@ -52,4 +52,11 @@ Once the logs show `Started Task1Application`, verify the setup:
 2. `docker-compose.yml`: Orchestrates the App and Database services.
 3. `src/main/resources/application.properties`: Configuration (overridden by Docker environment variables).
 
+---
+
+##  Summary & Resources
+I have prepared a detailed summary and guide for this project. You can access the full documentation and resources on Google Drive:
+
+| **[Download Summary & Resources](Comming Soon)**
+
 
