@@ -13,7 +13,7 @@ services:
 
   db:
     image: postgres:15-alpine
-    volumes:
+    volumes: # Persist data between container restarts
       - postgres_data:/var/lib/postgresql/data
     environment:
       POSTGRES_DB: mydb
