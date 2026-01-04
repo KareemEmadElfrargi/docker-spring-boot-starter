@@ -57,6 +57,6 @@ Once the logs show `Started Task1Application`, verify the setup:
 ##  Summary & Resources
 I have prepared a detailed summary and guide for this project. You can access the full documentation and resources on Google Drive:
 
-| **[Download Summary & Resources](Comming Soon)**
+| **[Download Summary & Resources](https://drive.google.com/file/d/1rJS-TcxJgz-Nmiu4xV0m8f9QgIu2uMFV/view?usp=sharing))**
 
 
